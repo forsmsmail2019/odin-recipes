@@ -6,3 +6,8 @@ div {
 p {
     color: red;
 }
+
+img {
+    height: auto;
+    width: 500px;
+}
