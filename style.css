@@ -2,8 +2,15 @@ div {
     color: rgb(255, 255, 255);
     background-color: black;
     height: auto;
-    width: 800px;
-    align-content: center;
+    min-width: 200px;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%; 
+}
+
+div div {
+   
+
 }
 
 p {
