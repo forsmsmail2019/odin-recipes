@@ -3,6 +3,7 @@ div {
     background-color: black;
     height: auto;
     width: 800;
+    align-content: center;
 }
 
 p {
